@@ -14,10 +14,10 @@ function App() {
     setdata(0);
    }
   return (
-    <div className="">
-     <div className="border-s-red-600 m-20" >
-     <h1 class="bg-white h-min 20px"> {data}</h1>
-     
+    <div className="ma">
+      <h1 id='h'>counter app</h1>
+     <div className="mi" >
+     <p id="d">{data}</p>
      <button onClick={inc} className="text-white bg-blue-500 ">increment </button>
      <button onClick={de} className="text-white bg-pink-400 m-3">decrement </button>
      <button onClick={re} className="text-white bg-black m-3" >reset </button>
