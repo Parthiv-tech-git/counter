@@ -17,10 +17,10 @@ function App() {
     <div className="ma">
       <h1 id='h'>counter app</h1>
      <div className="mi" >
-     <p id="d">{data}</p>
-     <button onClick={inc} className="text-white bg-blue-500 ">increment </button>
-     <button onClick={de} className="text-white bg-pink-400 m-3">decrement </button>
-     <button onClick={re} className="text-white bg-black m-3" >reset </button>
+     <p id='d'>{data}</p>
+     <button onClick={inc} id="o">increment </button>
+     <button onClick={de} id='t'>decrement </button>
+     <button onClick={re} id='r'>reset </button>
 
 
      </div>
