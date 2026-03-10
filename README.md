@@ -25,7 +25,7 @@ By using of this page the user can do increment and decrement the numberical val
  - open the index.html in your boswer.
  ---
  ## output 
- - you can how the output of web page in public/output.jpeg
+ - you can see  the output of web page in public/output.jpeg
  ---
 
  ## author
