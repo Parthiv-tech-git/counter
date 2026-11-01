@@ -26,6 +26,7 @@ By using of this page the user can do increment and decrement the numberical val
  ---
  ## output 
  - you can see  the output of web page in public/output.jpeg
+ - ![output](./public/output.jpeg)
  ---
 
  ## author
